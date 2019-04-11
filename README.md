@@ -20,9 +20,12 @@ tns run <platform> --bundle
 
 # Screenshots
 
-<img src="./Screenshots/home.png" width="300px"/>
-<img src="./Screenshots/sideDrawer.png" width="300px"/>
-<img src="./Screenshots/add.png" width="300px"/>
-<img src="./Screenshots/remove.png" width="300px"/>
+| Home | Side Drawer|
+| ---- | ---------- |
+|<img src="./Screenshots/home.png" width="300px"/> | <img src="./Screenshots/sideDrawer.png" width="300px"/> |
+
+| Add Reddit | Delete Reddit|
+| ---- | ---------- |
+| <img src="./Screenshots/add.png" width="300px"/> | <img src="./Screenshots/remove.png" width="300px"/> |
 
 
